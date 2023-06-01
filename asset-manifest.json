@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Yeon-SS/react_0601/static/css/main.d06dc770.css",
+    "main.js": "/Yeon-SS/react_0601/static/js/main.54464179.js",
+    "static/js/787.dbceef5a.chunk.js": "/Yeon-SS/react_0601/static/js/787.dbceef5a.chunk.js",
+    "static/media/logo.svg": "/Yeon-SS/react_0601/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Yeon-SS/react_0601/index.html",
+    "main.d06dc770.css.map": "/Yeon-SS/react_0601/static/css/main.d06dc770.css.map",
+    "main.54464179.js.map": "/Yeon-SS/react_0601/static/js/main.54464179.js.map",
+    "787.dbceef5a.chunk.js.map": "/Yeon-SS/react_0601/static/js/787.dbceef5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d06dc770.css",
+    "static/js/main.54464179.js"
+  ]
+}
